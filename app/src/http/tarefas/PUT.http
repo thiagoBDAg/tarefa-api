@@ -1,0 +1,8 @@
+PUT https://8080-thiagobdag-tarefaapi-qst2xgl1lv5.ws-us110.gitpod.io/tarefas/1
+Content-Type: application/json
+
+
+{
+    "descricao": "Descrição da Atividade 1",
+    "concluido": "False"
+}

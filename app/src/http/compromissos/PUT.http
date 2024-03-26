@@ -1,0 +1,11 @@
+PUT https://8080-thiagobdag-tarefaapi-qst2xgl1lv5.ws-us110.gitpod.io/compromissos/1
+Content-Type: application/json
+
+
+{
+    "descricao": "Descrição do Compromisso 1 Atualizado",
+    "dataInicio": "12/03/24",
+    "dataFim": "24/03/24",
+    "horaInicio": "12:00",
+    "horaFim": "23:00"
+}
